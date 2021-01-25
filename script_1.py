@@ -1,5 +1,5 @@
 '''
-Script to interact with UE using AT CMDs
+Script to interact with UE using AT Commands
 '''
 
 #pip install pyserial
