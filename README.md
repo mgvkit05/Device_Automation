@@ -21,3 +21,4 @@ PC connected to the Phone over USB cable.
 
 ## Diagram
 
+![final](https://user-images.githubusercontent.com/77254370/105674927-1e876c00-5e9d-11eb-9fdf-cfa7d0fd99ea.JPG)
