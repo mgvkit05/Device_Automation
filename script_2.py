@@ -1,5 +1,5 @@
 '''
-Automating adb commands on netcomm CPE.
+Automating adb commands.
 
 '''
 
